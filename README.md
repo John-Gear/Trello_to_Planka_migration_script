@@ -1,7 +1,7 @@
 # Trello to Planka Migration Script
 
 ## Description
-This script is designed to migrate data from Trello to Planka. It automatically transfers workspaces, boards, lists, cards, comments, attachments, labels, and card covers from Trello to Planka while preserving structure and important details.
+This script is designed to migrate data from Trello to [Planka](https://github.com/plankanban/planka). It automatically transfers workspaces, boards, lists, cards, comments, attachments, labels, and card covers from Trello to Planka while preserving structure and important details.
 
 ---
 
