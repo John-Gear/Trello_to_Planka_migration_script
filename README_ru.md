@@ -33,7 +33,7 @@
 ## Установка и запуск
 1. **Создайте папку на сервере** и склонируйте репозиторий:
    ```sh
-   git clone https://github.com/garpastyls/Trello_downloader.git
+   git clone https://github.com/garpastyls/Trello_to_Planka_migration_script.git
    ```
 2. **Создайте виртуальное окружение**:
    ```sh
